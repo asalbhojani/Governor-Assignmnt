@@ -1,3 +1,5 @@
+//21.They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+
 let products: {  name: string ,price: number ,category:string}[] = [
     {  "name": "Kurkure" ,"price":50,"category":"Chips" },
     {  "name": "Candi" ,"price":40,"category":"Biscuit"},
